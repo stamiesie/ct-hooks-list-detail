@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import ListCharacter from '../components/app/presentation/listCharacter';
+import ListCharacter from '../components/app/presentation/ListCharacter';
 import { fetchCharacters } from '../services/ApiCall';
 
 const AllCharacters = () => {
