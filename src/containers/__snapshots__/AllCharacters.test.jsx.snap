@@ -1,0 +1,417 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AllCharacters container renders a list of characters to the page 1`] = `
+<ul
+  aria-label="characters"
+>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab68d1"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Analay
+        </p>
+        <img
+          alt="Analay"
+          src="https://vignette.wikia.nocookie.net/avatar/images/c/c3/Analay.png/revision/latest?cb=20140430182201"
+        />
+        <p>
+          Unnamed team
+        </p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab68d5"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Arik
+        </p>
+        <img
+          alt="Arik"
+          src="https://vignette.wikia.nocookie.net/avatar/images/6/6f/Arik.png/revision/latest?cb=20140808184002"
+        />
+        <p>
+          Earth Kingdom Air Force
+        </p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab68e2"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Baatar Jr.
+        </p>
+        <img
+          alt="Baatar Jr."
+          src="https://vignette.wikia.nocookie.net/avatar/images/4/45/Baatar_Jr..png/revision/latest?cb=20150409193510"
+        />
+        <p>
+           Beifong family Military of the Earth Empire (formerly) Metal Clan
+        </p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab68e9"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Bolin
+        </p>
+        <img
+          alt="Bolin"
+          src="https://vignette.wikia.nocookie.net/avatar/images/d/d4/Bolin.png/revision/latest?cb=20150406232314"
+        />
+        <p>
+           Fire Ferrets (formerly) Kuvira's army (deserted) Team Avatar Triple Threat Triad (formerly) Republic City Police
+        </p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab68fd"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Chan (Fire Nation admiral)
+        </p>
+        <img
+          alt="Chan (Fire Nation admiral)"
+        />
+        <p>
+          Fire Nation Navy
+        </p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab6900"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Chit Sang
+        </p>
+        <img
+          alt="Chit Sang"
+          src="https://vignette.wikia.nocookie.net/avatar/images/8/81/Chit_Sang.png/revision/latest?cb=20121021000707"
+        />
+        <p />
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab68d7"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Asami Sato
+        </p>
+        <img
+          alt="Asami Sato"
+          src="https://vignette.wikia.nocookie.net/avatar/images/b/b6/Asami_Sato.png/revision/latest?cb=20150407110150"
+        />
+        <p>
+           Future Industries Sato family Team Avatar
+        </p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab68f0"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Bum-Ju
+        </p>
+        <img
+          alt="Bum-Ju"
+          src="https://vignette.wikia.nocookie.net/avatar/images/b/b6/Bum-Ju.png/revision/latest?cb=20140730103156"
+        />
+        <p>
+          Spirit World
+        </p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab68f5"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Butler
+        </p>
+        <img
+          alt="Butler"
+          src="https://vignette.wikia.nocookie.net/avatar/images/8/82/Butler.png/revision/latest?cb=20121107115044"
+        />
+        <p>
+          Sato family
+        </p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab68ed"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Broadsword man
+        </p>
+        <img
+          alt="Broadsword man"
+          src="https://vignette.wikia.nocookie.net/avatar/images/9/98/Broadsword_man.png/revision/latest?cb=20130630171553"
+        />
+        <p>
+          Earth Kingdom
+        </p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab68cf"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Aiwei
+        </p>
+        <img
+          alt="Aiwei"
+          src="https://vignette.wikia.nocookie.net/avatar/images/0/07/Aiwei_reveals_Korra%27s_lie.png/revision/latest?cb=20140808130551"
+        />
+        <p>
+           Metal Clan (formerly) Red Lotus (formerly)
+        </p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab68d2"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Animal control officer
+        </p>
+        <img
+          alt="Animal control officer"
+          src="https://vignette.wikia.nocookie.net/avatar/images/5/58/Animal_control_officer.png/revision/latest?cb=20140504160655"
+        />
+        <p />
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab6904"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Chow
+        </p>
+        <img
+          alt="Chow"
+          src="https://vignette.wikia.nocookie.net/avatar/images/5/51/Chow.png/revision/latest?cb=20140730173827"
+        />
+        <p />
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab6906"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Circus master
+        </p>
+        <img
+          alt="Circus master"
+          src="https://vignette.wikia.nocookie.net/avatar/images/a/a5/Circus_master.png/revision/latest?cb=20130706153819"
+        />
+        <p>
+          Fire Nation circus
+        </p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab68ee"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Bujing
+        </p>
+        <img
+          alt="Bujing"
+          src="https://vignette.wikia.nocookie.net/avatar/images/7/76/Bujing.png/revision/latest?cb=20130714152817"
+        />
+        <p>
+          Fire Nation military
+        </p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab68f6"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Buttercup Raiko
+        </p>
+        <img
+          alt="Buttercup Raiko"
+          src="https://vignette.wikia.nocookie.net/avatar/images/e/ed/Buttercup_Raiko.png/revision/latest?cb=20150409193510"
+        />
+        <p>
+          United Republic Government
+        </p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab68f7"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Cabbage merchant
+        </p>
+        <img
+          alt="Cabbage merchant"
+          src="https://vignette.wikia.nocookie.net/avatar/images/2/2f/Cabbage_merchant.png/revision/latest?cb=20140112200908"
+        />
+        <p>
+           Cabbage Corp Earth Kingdom
+        </p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab68f8"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Calm man
+        </p>
+        <img
+          alt="Calm man"
+          src="https://vignette.wikia.nocookie.net/avatar/images/b/b6/Calm_man.png/revision/latest?cb=20130814093330"
+        />
+        <p>
+          Earth Kingdom
+        </p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab68ff"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Chin
+        </p>
+        <img
+          alt="Chin"
+          src="https://vignette.wikia.nocookie.net/avatar/images/6/6f/Chin_the_Great.png/revision/latest?cb=20140215111604"
+        />
+        <p />
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/5cf5679a915ecad153ab6901"
+    >
+      <div
+        aria-label="detail"
+        role="div"
+      >
+        <p>
+          Chit Sang's friend
+        </p>
+        <img
+          alt="Chit Sang's friend"
+          src="https://vignette.wikia.nocookie.net/avatar/images/6/6e/Chit_Sang%27s_friend.png/revision/latest?cb=20121120131829"
+        />
+        <p />
+      </div>
+    </a>
+  </li>
+</ul>
+`;

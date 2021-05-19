@@ -1,19 +1,19 @@
 import React from 'react';
-import PropTypes from 'prop-types';
+// import PropTypes from 'prop-types';
 
 const Character = ({ name, photoUrl, affiliation}) => {
     return (
-    <div>
+    <div role="div" aria-label="detail">
         <p>{name}</p>
         <img src={photoUrl} alt={name}/>
         <p>{affiliation}</p>
     </div>
 )};
 
-Character.propTypes = {
-name: PropTypes.string.isRequired,
-photoUrl: PropTypes.string.isRequired,
-affiliation: PropTypes.string.isRequired,
-};
+// Character.propTypes = {
+// name: PropTypes.string.isRequired,
+// photoUrl: PropTypes.string.isRequired,
+// affiliation: PropTypes.string.isRequired,
+// };
 
 export default Character;
