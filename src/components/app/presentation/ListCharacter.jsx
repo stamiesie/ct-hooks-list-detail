@@ -1,5 +1,5 @@
 import React from 'react';
-// import PropTypes from 'prop-types';
+import PropTypes from 'prop-types';
 import Character from './Character';
 import { Link } from 'react-router-dom';
 
@@ -20,15 +20,15 @@ const ListCharacter = ({ characters }) => {
     </ul>
     )};
 
-// ListCharacter.propTypes = {
-//     characters: PropTypes.arrayOf(
-//         PropTypes.shape({
-//             _id: PropTypes.string.isRequired,
-//             name: PropTypes.string.isRequired,
-//             photoUrl: PropTypes.string.isRequired,
-//             affiliation: PropTypes.string.isRequired,
-//         })
-//     ).isRequired,
-// };
+ListCharacter.propTypes = {
+    characters: PropTypes.arrayOf(
+        PropTypes.shape({
+            _id: PropTypes.string.isRequired,
+            name: PropTypes.string.isRequired,
+            photoUrl: PropTypes.string.isRequired,
+            affiliation: PropTypes.string.isRequired,
+        })
+    ).isRequired,
+};
 
 export default ListCharacter;
